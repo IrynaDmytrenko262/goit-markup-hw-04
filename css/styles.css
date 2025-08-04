@@ -427,6 +427,7 @@
   }
 
   .image-text-portfolio{
+    font-weight: 400;
     position: absolute;
     top: 0;
     font-size: 16px;
@@ -485,6 +486,9 @@
   }
 
   .footer-logo-container{
+    width: 264px;
+    height: 112px;
+    margin-left: 156px;
     margin-right: 120px;
   }
 
@@ -507,7 +511,8 @@
   }
 
   .footer-socials-container{
-
+    width: 208px;
+    height: 80px;
   }
 
   .footer-text-socials{
